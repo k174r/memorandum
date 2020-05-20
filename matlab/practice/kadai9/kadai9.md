@@ -11,7 +11,7 @@ pause;
 <br /><br />
 原画像を白黒濃淡画像に変換したものを図1に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai9/kadai9_1.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai9/kadai9_1.jpg)  
 図1 原画像のグレースケール
 <br /><br />
 
@@ -22,7 +22,7 @@ imagesc(ORG); colormap(gray); colorbar; axis image; % 画像の表示
 ```
 結果を図2に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai9/kadai9_2.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai9/kadai9_2.jpg)  
 図2 ノイズ添付画像
 <br /><br />
 
@@ -33,7 +33,7 @@ imagesc(IMG); colormap(gray); colorbar; axis image; % 画像の表示
 ```
 結果を図3に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai9/kadai9_3.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai9/kadai9_3.jpg)  
 図3 平滑化フィルタ
 <br /><br />
 
@@ -44,7 +44,7 @@ imagesc(IMG); colormap(gray); colorbar; axis image; % 画像の表示
 ```
 結果を図4に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai9/kadai9_4.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai9/kadai9_4.jpg)  
 図4 メディアンフィルタ
 <br /><br />
 
@@ -56,7 +56,7 @@ imagesc(IMG); colormap(gray); colorbar; axis image; % 画像の表示
 ```
 結果を図5に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai9/kadai9_5.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai9/kadai9_5.jpg)  
 図5 設計したフィルタ
 <br /><br />
 
