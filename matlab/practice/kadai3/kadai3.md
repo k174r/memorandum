@@ -12,7 +12,7 @@ pause;
 ```
 原画像を白黒濃淡画像に変換したものを図1に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/MATLAB/blob/master/image/kadai3/kadai3_1.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai3/kadai3_1.jpg)  
 図1 原画像のグレースケール
 <br /><br />
 
@@ -26,7 +26,7 @@ imagesc(IMG); colormap(gray); colorbar; axis image;
 ```
 閾値を64に設定した画像を図2に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/MATLAB/blob/master/image/kadai3/kadai3_2.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai3/kadai3_2.jpg)  
 図2 閾値64
 <br /><br />
 
@@ -38,7 +38,7 @@ imagesc(IMG); colormap(gray); colorbar; axis image;
 ```
 閾値を96に設定した画像を図3に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/MATLAB/blob/master/image/kadai3/kadai3_3.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai3/kadai3_3.jpg)  
 図3 閾値96
 <br /><br />
 
@@ -50,7 +50,7 @@ imagesc(IMG); colormap(gray); colorbar; axis image;
 ```
 閾値を128に設定した画像を図4に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/MATLAB/blob/master/image/kadai3/kadai3_4.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai3/kadai3_4.jpg)  
 図4 閾値128
 <br /><br />
 
@@ -62,6 +62,6 @@ imagesc(IMG); colormap(gray); colorbar; axis image;
 ```
 閾値を192に設定した画像を図5に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/MATLAB/blob/master/image/kadai3/kadai3_5.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai3/kadai3_5.jpg)  
 図3 閾値192
 <br /><br />
