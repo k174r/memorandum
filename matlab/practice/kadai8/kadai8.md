@@ -11,7 +11,7 @@ pause;
 <br /><br />
 原画像を白黒濃淡画像に変換したものを図1に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai8/kadai8_1.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai8/kadai8_1.jpg)  
 図1 原画像のグレースケール
 <br /><br />
 
@@ -22,7 +22,7 @@ imagesc(IMG); colormap(gray); colorbar; % 画像の表示
 ```
 128で二値化を行った結果を図2に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai8/kadai8_2.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai8/kadai8_2.jpg)  
 図2 二値化画像
 <br /><br />
 
@@ -33,6 +33,6 @@ imagesc(IMG); colormap(jet); colorbar; % 画像の表示
 ```
 実行結果を図3に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai8/kadai8_3.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai8/kadai8_3.jpg)  
 図3 ラベリング
 <br /><br />
