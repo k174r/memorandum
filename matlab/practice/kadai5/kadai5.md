@@ -11,7 +11,7 @@ pause;
 <br /><br />
 原画像を白黒濃淡画像に変換したものを図1に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai5/kadai5_1.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai5/kadai5_1.jpg)  
 図1 原画像のグレースケール
 <br /><br />
 
@@ -44,6 +44,6 @@ imagesc(IMG); colormap(gray); colorbar;
 pause;
 ```
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai5/kadai5_2.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai5/kadai5_2.jpg)  
 図2 二値化画像
 <br /><br />
