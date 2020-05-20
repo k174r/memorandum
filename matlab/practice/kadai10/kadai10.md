@@ -11,7 +11,7 @@ pause;
 <br /><br />
 原画像を白黒濃淡画像に変換したものを図1に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai10/kadai10_1.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai10/kadai10_1.jpg)  
 図1 原画像のグレースケール
 <br /><br />
 
@@ -22,7 +22,7 @@ imagesc(IMG); colormap('gray'); colorbar;% 画像表示
 ```
 結果を図2に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai10/kadai10_2.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai10/kadai10_2.jpg)  
 図2 プレウィット法
 <br /><br />
 
@@ -33,7 +33,7 @@ imagesc(IMG); colormap('gray'); colorbar;% 画像表示
 ```
 結果を図3に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai10/kadai10_3.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai10/kadai10_3.jpg)  
 図3 ソベル法
 <br /><br />
 
@@ -44,6 +44,6 @@ imagesc(IMG); colormap('gray'); colorbar;% 画像表示
 ```
 結果を図4に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai10/kadai10_4.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai10/kadai10_4.jpg)  
 図4 キャニー法
 <br /><br />
