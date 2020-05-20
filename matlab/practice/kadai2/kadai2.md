@@ -87,6 +87,3 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 <br /><br />
 ![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai2/kadai2_4.jpg)  
 図4 8階調
-<br /><br />)  
-図3 4階調
-<br /><br />
