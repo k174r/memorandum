@@ -10,7 +10,7 @@ imagesc(ORG); colormap(gray); colorbar; axis image;% 画像の表示
 <br /><br />
 原画像を白黒濃淡画像に変換したものを図1に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai7/kadai7_1.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai7/kadai7_1.jpg)  
 図1 原画像のグレースケール
 <br /><br />
 
@@ -19,7 +19,7 @@ imagesc(ORG); colormap(gray); colorbar; axis image;% 画像の表示
 imhist(ORG); % 濃度ヒストグラムを生成、表示
 ```
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai7/kadai7_2.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai7/kadai7_2.jpg)  
 図2 ヒストグラム
 <br /><br />
 図2の横軸からダイナミックレンジの最大値は200以上250以下の範囲であることが分かる。
@@ -35,11 +35,11 @@ imhist(ORG); % 濃度ヒストグラムを生成、表示
 上記によりグレースケール画像のダイナミックレンジが拡大される。  
 ダイナミックレンジを拡大したグレースケール画像を図3に、そのヒストグラムを図4に示す。
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai7/kadai7_3.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai7/kadai7_3.jpg)  
 図3 ダイナミックレンジを拡大したグレースケール画像
 
 <br /><br />
-![原画像](https://github.com/Keitaro749/image_processing/blob/master/image/kadai7/kadai7_4.jpg)  
+![原画像](https://github.com/k174r/memorandum/blob/master/matlab/practice/image/kadai7/kadai7_4.jpg)  
 図4 ダイナミックレンジを拡大したグレースケール画像のヒストグラム
 <br /><br />
 図4の横軸のヒストグラムより、ダイナミックレンジ拡大後のヒストグラムは拡大前のヒストグラムより最大値が大きくなっていることが確認できる。  
