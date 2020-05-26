@@ -1,4 +1,5 @@
 # TrueTypeとOpenTypeの違い
+<br><br>
 ## TrueType (.TTF)
 TrueTypeは歴史が長く対応している環境がたくさんある．  
 現時点ではOpenTypeよりも無難に使えるフォント形式といえる．  
