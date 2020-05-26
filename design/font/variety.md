@@ -7,6 +7,6 @@
 <br><br>
 ## English
 Paganini  
-DIN(Uniqro tokyo2020)  
+DIN(UNIQLO tokyo2020)  
 Futura  
 
