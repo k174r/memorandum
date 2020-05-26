@@ -2,7 +2,7 @@
 ## TrueType (.TTF)
 TrueTypeは歴史が長く対応している環境がたくさんある．  
 現時点ではOpenTypeよりも無難に使えるフォント形式といえる．  
-特にWindows用のアプリケーションでは、いまだにTrueTypeのみをサポートしているというものが残っている．  
+特にWindows用のアプリケーションでは,いまだにTrueTypeのみをサポートしているというものが残っている．  
 
 ## OpenType (.OTF)
 TrueTypeのもつ限界を緩和し,より高度な機能を持たせた新たなフォント規格がOpenType.  
