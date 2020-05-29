@@ -8,6 +8,6 @@
 <br><br>
 ## English
 Paganini  
-DIN(UNIQLO tokyo2020)  
+DIN(UNIQLOやtokyo2020オリンピックのロゴに使われた．)  
 Futura  
 
